@@ -1,2 +1,2 @@
 # orchestraWebpage
-high fidelity webpage for orchestral clu
+high fidelity webpage for orchestral club
